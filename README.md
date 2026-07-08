@@ -65,24 +65,13 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devsharma-data-scientist&theme=radical&no-frame=true&margin-w=8"/>
+<img src="https://komarev.com/ghpvc/?username=devsharma-data-scientist&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
 # 🔝 Top Contributed Repositories
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=devsharma-data-scientist&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=devsharma-data-scientist&style=for-the-badge&color=blueviolet"/>
-</p>
